@@ -14,5 +14,4 @@ The note taker will start off blank and you can create a title for your note/rem
 ## Links to Application
 
 - Here is the link to the repo: [smarr2198/repo](https://github.com/smarr2198/noteTaker)
-- Here is the link to the pages: [smarr2198/pages](https://smarr2198.github.io/noteTaker/)
 - Here is the link to the deployer Heroku page: [smarr2198/heroku](https://note-taker-smarr2198.herokuapp.com/notes)
